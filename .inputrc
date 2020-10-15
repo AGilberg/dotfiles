@@ -1,0 +1,9 @@
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+set completion-ignore-case on
+set show-all-if-ambiguous on
+TAB: menu-complete
+
+# VIM
+set editing-mode vi
+set keymap vi
